@@ -1,0 +1,14 @@
+.controls {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.2);
+  }
+  .leave{
+    margin-left: 1%;
+  }

@@ -1,0 +1,22 @@
+.room {
+    position: absolute;
+    margin-top: 4%;
+    top: 0;
+    left: 0;
+    right: 0; 
+    z-index: 2;  
+  }
+  
+  .room__streamSpace {
+     display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+  }
+
+   .chatPart{
+    position: absolute;
+    right: 0;
+    margin-right: 3%;
+  } 
+   
